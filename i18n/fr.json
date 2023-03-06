@@ -1,0 +1,6 @@
+{
+    "page.home.head.title": "Exemple Next.js i18n",
+    "page.home.head.meta.description": "exemple Next.js i18n - Francais",
+    "page.home.title": "Bienvenue sur la page d'accueil",
+    "page.home.description": "Vous consultez actuallement la page d'accueil en francais"
+}
